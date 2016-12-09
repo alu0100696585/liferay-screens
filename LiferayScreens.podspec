@@ -55,7 +55,7 @@ Pod::Spec.new do |s|
 	s.dependency 'Liferay-OAuth', '~> 1.2.0'
 	s.dependency 'MBProgressHUD', '~> 0.9.1'
 	s.dependency 'SMXMLDocument', '~> 1.1'
-	s.dependency 'YapDatabase/SQLCipher', '2.9.2'
+	s.dependency 'YapDatabase/SQLCipher', '2.9.1'
 	s.dependency 'Kingfisher', '~> 2.4'
 
 	# Login & signup: save credentials
@@ -70,6 +70,6 @@ Pod::Spec.new do |s|
 	s.dependency 'MDRadialProgress', '~> 1.3.2'
 
 	# RatingBar
-	s.dependency 'Cosmos', '0.0.1'
+#	s.dependency 'Cosmos', '0.0.1'
 
 end
