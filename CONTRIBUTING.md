@@ -32,4 +32,8 @@ Follow these steps if you know the feature that you want to add, and how to add 
 
 What happens when you want to make a contribution, but you're not sure about it, or you don't know how to implement it? No problem! One thing you can do is open a thread in [our forum](https://www.liferay.com/community/forums/-/message_boards/category/42706063). We're always happy to discuss new ideas.
 
+
+
+hola soy alu
+
 If you have a good idea for a feature but don't know how to implement it, you can add a Feature Request to [our issue tracker](https://issues.liferay.com/browse/LMW/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel). When doing so, be sure to describe the benefits of the feature and why you think it's useful. We'll then review and prioritize it.
